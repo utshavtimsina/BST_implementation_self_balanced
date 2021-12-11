@@ -1,0 +1,14 @@
+
+E
+java:S3740
+"/Provide the parametrized type for this generic.(š”§°
+E
+java:S3740
+"/Provide the parametrized type for this generic.(š”§°
+Q
+java:S1854";Remove this useless assignment to local variable "element".(Å©äÂ
+B
+java:S1481",Remove this unused "element" local variable.(Å©äÂ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÐÆëŠ
+g
+java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(ý³÷üûÿÿÿÿ
